@@ -111,3 +111,6 @@ https://neal.fun/http://makemebabies.com/
 http://voice.headliner.app
 http://nvidia-research-mingyuliu.com/gaugan/
 http://ritmoteka.ru/
+http://tramvision.ru/lapsus/
+https://classic.minecraft.net/
+(остановился на 26 ноября)
