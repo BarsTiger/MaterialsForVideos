@@ -112,5 +112,5 @@ http://voice.headliner.app
 http://nvidia-research-mingyuliu.com/gaugan/
 http://ritmoteka.ru/
 http://tramvision.ru/lapsus/
-https://classic.minecraft.net/
+https://classic.minecraft.net/ — тут можно играть в майнкрафт прямо в браузере
 (остановился на 26 ноября)
