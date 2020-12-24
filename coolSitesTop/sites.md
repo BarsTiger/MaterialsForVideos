@@ -22,8 +22,10 @@ https://www.audiotool.com/ - делаем музыку и биты
 https://mailfuture.ru/write/ - письмо себе в будущее                                                  
 
 ----------------------------------------------Компуктеры эти ваши, интернеты---------------------------------------------------------------
-
-
+https://fast.com/ - самый простой проверятель скорости интернета                                
+https://v1.windows93.net/ - эмулятор вин93, лол               
+https://onedoes.github.io/snapdrop/ - файлшэр                                                    
+http://appinventor.mit.edu/ - придумыватель приложений                                             
 
 http://first-ever.ru/ 
 https://www.earthcam.com/ 
@@ -45,10 +47,6 @@ https://imena-znachenie.ru/
 http://madebyevan.com/webgl-water/
 https://tholman.com/texter/
 https://logomaster.ai/ru
-https://fast.com/
-https://v1.windows93.net/
-https://onedoes.github.io/snapdrop/
-http://appinventor.mit.edu/
 https://dearphotograph.com/
 http://bugmenot.com/
 https://chir.ag/projects/tip-of-my-tongue/
