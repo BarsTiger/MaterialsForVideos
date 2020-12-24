@@ -4,19 +4,25 @@ https://coo.by/writer - текст в рукопись
 http://www.essaytyper.com/ - ИИ пишет эссе за тебя                       
 https://porfirevich.ru/ - ИИ продолжает твои рассказы - угарная штука                        
 https://rifme.net/ - рифмы к словам                                 
-http://fliptext.net/ - перевернутый текст                                        
+http://fliptext.net/ - перевернутый текст                      
+https://llamafont.com/ - шрифт из.... лам?                                                              
 
 ----------------------------------------------Игры и фильмы--------------------------------------------------------------------------------------
 https://myshows.me/ - куча инфы о фильме и сериале (даже сумма времени всех серий)                               
 https://howlongtobeat.com/ - сколько времени уйдет на прохождение игры                           
-https://classic.minecraft.net/ - МаЙнКрАфТ оНлАйН                                 
+https://classic.minecraft.net/ - МаЙнКрАфТ оНлАйН        
+
+----------------------------------------------Музыка и биты--------------------------------------------------------------------------------------
+https://virtualpiano.net/ - виртуалпианино                             
+https://vocalremover.org/ru/ - куча всего с музыкой (удаление вокала и т.д.)
+https://www.audiotool.com/ - делаем музыку и биты 
+
 
 
 
 
 http://first-ever.ru/ 
 https://mailfuture.ru/write/ 
-https://virtualpiano.net/ 
 https://www.earthcam.com/ 
 https://stihi.ru/cgi-bin/assist.pl 
 https://ru.akinator.com/ 
@@ -48,7 +54,6 @@ http://ctrlq.org/first/
 https://www.scribblemaps.com/
 https://www.iconfinder.com/
 http://shadyurl.com/
-https://llamafont.com/
 https://neal.fun/spend/
 https://www.festisite.com/money/ua_griven_100/
 https://lookslikeyouneediceland.com/
@@ -133,12 +138,12 @@ http://omatic.musicairport.com/
 https://abw.blue/
 https://www.movieposterdb.com/
 https://pointerpointer.com/
-https://vocalremover.org/ru/
+
 https://magenta.github.io/lofi-player/
 https://temp-mail.org/
 https://www.lalal.ai/
 https://colorcopypaste.app/
-https://www.audiotool.com/
+
 http://magickeyboard.io/
 https://fast.com/
 https://onlinetonegenerator.com/hearingtest.html
