@@ -112,5 +112,23 @@ http://voice.headliner.app
 http://nvidia-research-mingyuliu.com/gaugan/
 http://ritmoteka.ru/
 http://tramvision.ru/lapsus/
-https://classic.minecraft.net/ — тут можно играть в майнкрафт прямо в браузере
-(остановился на 26 ноября)
+https://classic.minecraft.net/
+https://playback.fm/birthday-song
+https://spacetypegenerator.com/
+https://washyourlyrics.com/
+http://wikiverse.io/
+http://lines.chromeexperiments.com/
+https://verylegit.link/
+https://jellymar.io/
+https://www.how-old.net/
+https://nuclearsecrecy.com/nukemap/
+https://instantsfun.es/
+http://omatic.musicairport.com/
+https://abw.blue/
+https://www.movieposterdb.com/
+https://pointerpointer.com/
+https://vocalremover.org/ru/
+https://magenta.github.io/lofi-player/
+https://temp-mail.org/
+https://www.lalal.ai/
+https://colorcopypaste.app/
