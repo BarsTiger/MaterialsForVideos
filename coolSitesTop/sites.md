@@ -7,6 +7,12 @@ https://rifme.net/ - рифмы к словам
 http://fliptext.net/ - перевернутый текст
 
 ----------------------------------------------Игры и фильмы--------------------------------------------------------------------------------------
+https://myshows.me/ - куча инфы о фильме и сериале (даже сумма времени всех серий)
+https://howlongtobeat.com/ - сколько времени уйдет на прохождение игры
+https://classic.minecraft.net/ - МаЙнКрАфТ оНлАйН
+
+
+
 
 http://first-ever.ru/ 
 https://mailfuture.ru/write/ 
@@ -91,7 +97,6 @@ https://scrollbars.matoseb.com/
 https://you.regettingold.com/
 https://www.prettyscale.com/ru/
 https://www.midomi.com/
-https://howlongtobeat.com/
 https://synesthesia.me/see-your-name
 https://www.toptal.com/designers/colorfilter
 https://affinelayer.com/pixsrv/
@@ -114,7 +119,6 @@ http://voice.headliner.app
 http://nvidia-research-mingyuliu.com/gaugan/
 http://ritmoteka.ru/
 http://tramvision.ru/lapsus/
-https://classic.minecraft.net/
 https://playback.fm/birthday-song
 https://spacetypegenerator.com/
 https://washyourlyrics.com/
