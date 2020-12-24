@@ -1,3 +1,4 @@
+----------------Писать что-то и хакнуть дистанционку---------------------
 http://first-ever.ru/ 
 https://mailfuture.ru/write/ 
 https://virtualpiano.net/ 
@@ -135,3 +136,7 @@ https://colorcopypaste.app/
 https://www.audiotool.com/
 http://magickeyboard.io/
 https://fast.com/
+https://onlinetonegenerator.com/hearingtest.html
+https://pokemon.alexonsager.net/
+https://crossfade.io/
+http://adventuremachine.4thfloorcreative.co.uk
