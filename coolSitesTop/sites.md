@@ -1,11 +1,12 @@
 ----------------------------------------------Писать что-то и хакнуть дистанционку (и что-то про текст или буквы)--------------------------------
-http://synonymizer.ru/ 
-https://coo.by/writer
-http://www.essaytyper.com/
-https://porfirevich.ru/
+http://synonymizer.ru/ - синонимы
+https://coo.by/writer - текст в рукопись
+http://www.essaytyper.com/ - ИИ пишет эссе за тебя
+https://porfirevich.ru/ - ИИ продолжает твои рассказы - угарная штука
+https://rifme.net/ - рифмы к словам
 
 
-
+----------------------------------------------Игры и фильмы--------------------------------------------------------------------------------------
 
 http://first-ever.ru/ 
 https://mailfuture.ru/write/ 
@@ -45,11 +46,8 @@ http://shadyurl.com/
 https://llamafont.com/
 https://neal.fun/spend/
 https://www.festisite.com/money/ua_griven_100/
-
 https://lookslikeyouneediceland.com/
 https://artsexperiments.withgoogle.com/fabricius/en/play/translator
-https://bestfirms.com/what-is-my-screen-resolution/
-https://rifme.net/
 https://pixel-me.tokyo/en/
 https://www.hotspot3d.com/#compare
 https://screamclub.club/ - 'password - TEETH'
@@ -82,7 +80,6 @@ https://www.ostagram.me/
 https://localingual.com/
 https://haveibeenpwned.com/passwords
 https://www.ocf.berkeley.edu/~acowen/music.html#
-http://listen.hatnote.com/
 http://listen.hatnote.com/
 https://facethemusic.io/
 https://myshows.me/
