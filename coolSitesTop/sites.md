@@ -1,11 +1,18 @@
 ----------------------------------------------Писать что-то и хакнуть дистанционку (и что-то про текст или буквы)--------------------------------
+http://synonymizer.ru/ 
+https://coo.by/writer
+http://www.essaytyper.com/
+https://porfirevich.ru/
+
+
+
+
 http://first-ever.ru/ 
 https://mailfuture.ru/write/ 
 https://virtualpiano.net/ 
 https://www.earthcam.com/ 
 https://stihi.ru/cgi-bin/assist.pl 
 https://ru.akinator.com/ 
-http://synonymizer.ru/ 
 https://ufostalker.com/ 
 https://www.zoomquilt.org/ 
 https://stars.chromeexperiments.com/ 
@@ -17,13 +24,11 @@ https://thispersondoesnotexist.com/
 https://sleepyti.me/
 https://labs.tineye.com/
 https://icons8.com/upscaler
-https://coo.by/writer
 http://www.schiz.ru/
 http://8biticon.com/
 https://imena-znachenie.ru/
 http://madebyevan.com/webgl-water/
 https://tholman.com/texter/
-http://www.essaytyper.com/
 https://logomaster.ai/ru
 https://fast.com/
 https://v1.windows93.net/
@@ -40,7 +45,7 @@ http://shadyurl.com/
 https://llamafont.com/
 https://neal.fun/spend/
 https://www.festisite.com/money/ua_griven_100/
-https://porfirevich.ru/
+
 https://lookslikeyouneediceland.com/
 https://artsexperiments.withgoogle.com/fabricius/en/play/translator
 https://bestfirms.com/what-is-my-screen-resolution/
