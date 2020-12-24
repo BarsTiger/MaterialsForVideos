@@ -12,12 +12,16 @@ https://llamafont.com/ - шрифт из.... лам?
 https://myshows.me/ - куча инфы о фильме и сериале (даже сумма времени всех серий)                               
 https://howlongtobeat.com/ - сколько времени уйдет на прохождение игры                           
 https://classic.minecraft.net/ - МаЙнКрАфТ оНлАйН        
+https://ru.akinator.com/ - акинатор в браузере         
+https://www.movieposterdb.com/ - постеры к куче фильмов                       
+
 
 ----------------------------------------------Музыка и биты--------------------------------------------------------------------------------------
 https://virtualpiano.net/ - виртуалпианино                             
 https://vocalremover.org/ru/ - куча всего с музыкой (удаление вокала и т.д.)                                                                   
 https://www.audiotool.com/ - делаем музыку и биты                         
-https://voicechanger.io/ - меняем голос                    
+https://voicechanger.io/ - меняем голос                  
+http://3.14-pi.net/ - музыка из числа пи                                            
 
 ----------------------------------------------Соцсети--------------------------------------------------------------------------------------
 https://mailfuture.ru/write/ - письмо себе в будущее                                                  
@@ -26,7 +30,7 @@ https://mailfuture.ru/write/ - письмо себе в будущее
 https://fast.com/ - самый простой проверятель скорости интернета                                
 https://v1.windows93.net/ - эмулятор вин93, лол               
 https://onedoes.github.io/snapdrop/ - файлшэр                                                    
-http://appinventor.mit.edu/ - придумыватель приложений 
+http://appinventor.mit.edu/ - придумыватель приложений                                            
 http://shadyurl.com/ - удлиннитель ссылок в супер-стремные        
 https://verylegit.link/ - еще один ссылкоудлиннитель
                                             
@@ -36,23 +40,28 @@ https://icons8.com/upscaler - улучшение качества фото
 https://logomaster.ai/ru - создатель логотипов, но лучше юзайте wix logo maker                      
 https://www.iconfinder.com/ - очень много иконок в пнг, как убрать линии я показывал в видео                       
 
+----------------------------------------------ИИ и технологии--------------------------------------------------------------------------------------------
+https://thispersondoesnotexist.com/ - генератор несуществующих людей
+
 ----------------------------------------------Что?--------------------------------------------------------------------------------------------
 http://www.schiz.ru/ - тест на шизу                               
 https://ufostalker.com/ - карта встреч с НЛО - зачем?                          
 https://www.zoomquilt.org/ - нуу, вообщем да               
 https://humanclock.com/ - текущее время на картинках с этими цифрами - бесполезно но смешняво
+https://screamclub.club/ - password - TEETH - орем в микрофон и это слышат все                         
+http://astronaut.io/ - видео с ютуба, у которых меньше 10 просмторов                
+https://lookslikeyouneediceland.com/ - орем в микро и транслируем это в Исландию                            
+
+
+
 
 
 
 http://first-ever.ru/ 
 https://www.earthcam.com/ 
-https://ru.akinator.com/ 
 https://stars.chromeexperiments.com/ 
 https://geacron.com/home-ru/?lang=ru
 https://allcalc.ru/
-https://www.aquarium.ru/ru
-https://humanclock.com/
-https://thispersondoesnotexist.com/
 https://sleepyti.me/
 https://labs.tineye.com/
 http://8biticon.com/
@@ -66,7 +75,6 @@ http://ctrlq.org/first/
 https://www.scribblemaps.com/
 https://neal.fun/spend/
 https://www.festisite.com/money/ua_griven_100/
-https://lookslikeyouneediceland.com/
 https://artsexperiments.withgoogle.com/fabricius/en/play/translator
 https://pixel-me.tokyo/en/
 https://www.hotspot3d.com/#compare
@@ -77,8 +85,6 @@ http://omatic.musicairport.com/
 https://www.nikon.com/about/sp/universcale/index.htm?ref=1
 http://savethesounds.info/
 https://books.google.com/ngrams/
-http://astronaut.io/
-https://humanclock.com/
 https://verylegit.link/
 https://strobe.cool/
 https://privnote.com/
@@ -113,7 +119,6 @@ https://www.midomi.com/
 https://synesthesia.me/see-your-name
 https://www.toptal.com/designers/colorfilter
 https://affinelayer.com/pixsrv/
-http://3.14-pi.net/
 https://letsenhance.io/
 http://hereistoday.com/
 https://eternalbox.dev/
@@ -143,7 +148,6 @@ https://nuclearsecrecy.com/nukemap/
 https://instantsfun.es/
 http://omatic.musicairport.com/
 https://abw.blue/
-https://www.movieposterdb.com/
 https://pointerpointer.com/
 https://magenta.github.io/lofi-player/
 https://temp-mail.org/
