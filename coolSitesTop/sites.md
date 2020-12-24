@@ -56,6 +56,12 @@ https://generated.photos/ - генератор несуществующих лю
 https://allcalc.ru/ - подборОЧКА калькуляторов на все случаи
 https://sleepyti.me/ - во сколько спОтки
 
+----------------------------------------------Просто интересная инфа-------------------------------------------------------------------------------
+https://www.earthcam.com/ - куча камер со стримами с разных точек мира                                    
+https://stars.chromeexperiments.com/ - что-то о звездах и все это как 3д модель                              
+
+
+
 ----------------------------------------------Что?-------------------------------------------------------------------------------------------------
 http://www.schiz.ru/ - тест на шизу                               
 https://ufostalker.com/ - карта встреч с НЛО - зачем?                          
@@ -72,8 +78,6 @@ http://mypiday.com/ - ваш ДР в числе пи
 
 
 
-https://www.earthcam.com/ 
-https://stars.chromeexperiments.com/ 
 https://geacron.com/home-ru/?lang=ru
 https://labs.tineye.com/
 http://8biticon.com/
@@ -159,3 +163,5 @@ https://fast.com/
 https://onlinetonegenerator.com/hearingtest.html
 https://pokemon.alexonsager.net/
 https://crossfade.io/
+
+P.s. Плохой BarsTiger все это конечно же украл из https://t.me/tochkasite
