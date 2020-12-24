@@ -104,7 +104,6 @@ https://retsepty.online.ua/podbor-retsepta/
 https://www.worldometers.info/
 https://firstpersontetris.com/
 https://purrli.com/
-https://selfie2anime.com/
 https://search.descarteslabs.com/
 https://ai-art.tokyo/en/#/
 https://www.ostagram.me/
