@@ -4,7 +4,7 @@ https://coo.by/writer - текст в рукопись
 http://www.essaytyper.com/ - ИИ пишет эссе за тебя
 https://porfirevich.ru/ - ИИ продолжает твои рассказы - угарная штука
 https://rifme.net/ - рифмы к словам
-
+http://fliptext.net/ - перевернутый текст
 
 ----------------------------------------------Игры и фильмы--------------------------------------------------------------------------------------
 
@@ -41,7 +41,6 @@ https://chir.ag/projects/tip-of-my-tongue/
 http://ctrlq.org/first/
 https://www.scribblemaps.com/
 https://www.iconfinder.com/
-http://fliptext.net/
 http://shadyurl.com/
 https://llamafont.com/
 https://neal.fun/spend/
