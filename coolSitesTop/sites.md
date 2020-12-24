@@ -3,7 +3,8 @@ http://synonymizer.ru/ - синонимы
 https://coo.by/writer - текст в рукопись                      
 http://www.essaytyper.com/ - ИИ пишет эссе за тебя                       
 https://porfirevich.ru/ - ИИ продолжает твои рассказы - угарная штука                        
-https://rifme.net/ - рифмы к словам                                 
+https://rifme.net/ - рифмы к словам            
+https://stihi.ru/cgi-bin/assist.pl - еще одни рифмы                                                                    
 http://fliptext.net/ - перевернутый текст                      
 https://llamafont.com/ - шрифт из.... лам?                                                              
 
@@ -14,17 +15,18 @@ https://classic.minecraft.net/ - МаЙнКрАфТ оНлАйН
 
 ----------------------------------------------Музыка и биты--------------------------------------------------------------------------------------
 https://virtualpiano.net/ - виртуалпианино                             
-https://vocalremover.org/ru/ - куча всего с музыкой (удаление вокала и т.д.)
-https://www.audiotool.com/ - делаем музыку и биты 
+https://vocalremover.org/ru/ - куча всего с музыкой (удаление вокала и т.д.)                                                                   
+https://www.audiotool.com/ - делаем музыку и биты                                                 
 
+----------------------------------------------Соцсети--------------------------------------------------------------------------------------
+https://mailfuture.ru/write/ - письмо себе в будущее                                                  
 
+----------------------------------------------Компуктеры эти ваши, интернеты---------------------------------------------------------------
 
 
 
 http://first-ever.ru/ 
-https://mailfuture.ru/write/ 
 https://www.earthcam.com/ 
-https://stihi.ru/cgi-bin/assist.pl 
 https://ru.akinator.com/ 
 https://ufostalker.com/ 
 https://www.zoomquilt.org/ 
