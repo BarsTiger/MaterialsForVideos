@@ -132,3 +132,6 @@ https://magenta.github.io/lofi-player/
 https://temp-mail.org/
 https://www.lalal.ai/
 https://colorcopypaste.app/
+https://www.audiotool.com/
+http://magickeyboard.io/
+https://fast.com/
