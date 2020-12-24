@@ -25,7 +25,18 @@ https://mailfuture.ru/write/ - письмо себе в будущее
 https://fast.com/ - самый простой проверятель скорости интернета                                
 https://v1.windows93.net/ - эмулятор вин93, лол               
 https://onedoes.github.io/snapdrop/ - файлшэр                                                    
-http://appinventor.mit.edu/ - придумыватель приложений                                             
+http://appinventor.mit.edu/ - придумыватель приложений 
+http://shadyurl.com/
+
+                                            
+
+----------------------------------------------Фото, видео, и все для фотошоперов---------------------------------------------------------------
+https://icons8.com/upscaler
+https://logomaster.ai/ru
+https://www.iconfinder.com/
+
+
+
 
 http://first-ever.ru/ 
 https://www.earthcam.com/ 
@@ -40,20 +51,16 @@ https://humanclock.com/
 https://thispersondoesnotexist.com/
 https://sleepyti.me/
 https://labs.tineye.com/
-https://icons8.com/upscaler
 http://www.schiz.ru/
 http://8biticon.com/
 https://imena-znachenie.ru/
 http://madebyevan.com/webgl-water/
 https://tholman.com/texter/
-https://logomaster.ai/ru
 https://dearphotograph.com/
 http://bugmenot.com/
 https://chir.ag/projects/tip-of-my-tongue/
 http://ctrlq.org/first/
 https://www.scribblemaps.com/
-https://www.iconfinder.com/
-http://shadyurl.com/
 https://neal.fun/spend/
 https://www.festisite.com/money/ua_griven_100/
 https://lookslikeyouneediceland.com/
@@ -138,12 +145,10 @@ http://omatic.musicairport.com/
 https://abw.blue/
 https://www.movieposterdb.com/
 https://pointerpointer.com/
-
 https://magenta.github.io/lofi-player/
 https://temp-mail.org/
 https://www.lalal.ai/
 https://colorcopypaste.app/
-
 http://magickeyboard.io/
 https://fast.com/
 https://onlinetonegenerator.com/hearingtest.html
