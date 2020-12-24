@@ -16,7 +16,8 @@ https://classic.minecraft.net/ - МаЙнКрАфТ оНлАйН
 ----------------------------------------------Музыка и биты--------------------------------------------------------------------------------------
 https://virtualpiano.net/ - виртуалпианино                             
 https://vocalremover.org/ru/ - куча всего с музыкой (удаление вокала и т.д.)                                                                   
-https://www.audiotool.com/ - делаем музыку и биты                                                 
+https://www.audiotool.com/ - делаем музыку и биты                         
+https://voicechanger.io/ - меняем голос                    
 
 ----------------------------------------------Соцсети--------------------------------------------------------------------------------------
 https://mailfuture.ru/write/ - письмо себе в будущее                                                  
@@ -26,23 +27,26 @@ https://fast.com/ - самый простой проверятель скоро�
 https://v1.windows93.net/ - эмулятор вин93, лол               
 https://onedoes.github.io/snapdrop/ - файлшэр                                                    
 http://appinventor.mit.edu/ - придумыватель приложений 
-http://shadyurl.com/
-
+http://shadyurl.com/ - удлиннитель ссылок в супер-стремные        
+https://verylegit.link/ - еще один ссылкоудлиннитель
                                             
 
 ----------------------------------------------Фото, видео, и все для фотошоперов---------------------------------------------------------------
-https://icons8.com/upscaler
-https://logomaster.ai/ru
-https://www.iconfinder.com/
+https://icons8.com/upscaler - улучшение качества фото                              
+https://logomaster.ai/ru - создатель логотипов, но лучше юзайте wix logo maker                      
+https://www.iconfinder.com/ - очень много иконок в пнг, как убрать линии я показывал в видео                       
 
+----------------------------------------------Что?--------------------------------------------------------------------------------------------
+http://www.schiz.ru/ - тест на шизу                               
+https://ufostalker.com/ - карта встреч с НЛО - зачем?                          
+https://www.zoomquilt.org/ - нуу, вообщем да               
+https://humanclock.com/ - текущее время на картинках с этими цифрами - бесполезно но смешняво
 
 
 
 http://first-ever.ru/ 
 https://www.earthcam.com/ 
 https://ru.akinator.com/ 
-https://ufostalker.com/ 
-https://www.zoomquilt.org/ 
 https://stars.chromeexperiments.com/ 
 https://geacron.com/home-ru/?lang=ru
 https://allcalc.ru/
@@ -51,7 +55,6 @@ https://humanclock.com/
 https://thispersondoesnotexist.com/
 https://sleepyti.me/
 https://labs.tineye.com/
-http://www.schiz.ru/
 http://8biticon.com/
 https://imena-znachenie.ru/
 http://madebyevan.com/webgl-water/
@@ -68,7 +71,6 @@ https://artsexperiments.withgoogle.com/fabricius/en/play/translator
 https://pixel-me.tokyo/en/
 https://www.hotspot3d.com/#compare
 https://screamclub.club/ - 'password - TEETH'
-https://voicechanger.io/
 https://imisstheoffice.eu/
 https://krikienoid.github.io/flagwaver/#?src=https%3A%2F%2Fkotikot.netlify.app%2F
 http://omatic.musicairport.com/
@@ -99,7 +101,6 @@ https://haveibeenpwned.com/passwords
 https://www.ocf.berkeley.edu/~acowen/music.html#
 http://listen.hatnote.com/
 https://facethemusic.io/
-https://myshows.me/
 http://mypiday.com/
 https://mr21.github.io/space-object-comparison/
 https://generated.photos/
@@ -136,7 +137,6 @@ https://spacetypegenerator.com/
 https://washyourlyrics.com/
 http://wikiverse.io/
 http://lines.chromeexperiments.com/
-https://verylegit.link/
 https://jellymar.io/
 https://www.how-old.net/
 https://nuclearsecrecy.com/nukemap/
