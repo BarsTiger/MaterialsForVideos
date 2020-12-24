@@ -6,7 +6,8 @@ https://porfirevich.ru/ - ИИ продолжает твои рассказы - 
 https://rifme.net/ - рифмы к словам            
 https://stihi.ru/cgi-bin/assist.pl - еще одни рифмы                                                                    
 http://fliptext.net/ - перевернутый текст                      
-https://llamafont.com/ - шрифт из.... лам?                                                              
+https://llamafont.com/ - шрифт из.... лам?         
+https://tholman.com/texter/ - рисуем словами
 
 ----------------------------------------------Игры и фильмы--------------------------------------------------------------------------------------
 https://myshows.me/ - куча инфы о фильме и сериале (даже сумма времени всех серий)                               
@@ -15,16 +16,19 @@ https://classic.minecraft.net/ - МаЙнКрАфТ оНлАйН
 https://ru.akinator.com/ - акинатор в браузере         
 https://www.movieposterdb.com/ - постеры к куче фильмов                       
 
-
 ----------------------------------------------Музыка и биты--------------------------------------------------------------------------------------
 https://virtualpiano.net/ - виртуалпианино                             
 https://vocalremover.org/ru/ - куча всего с музыкой (удаление вокала и т.д.)                                                                   
 https://www.audiotool.com/ - делаем музыку и биты                         
 https://voicechanger.io/ - меняем голос                  
-http://3.14-pi.net/ - музыка из числа пи                                            
+http://3.14-pi.net/ - музыка из числа пи        
+http://adventuremachine.4thfloorcreative.co.uk - делаем крутявые биты как ди-джеи                         
+http://savethesounds.info/ - музей звуков                    
+https://imisstheoffice.eu/ - звуки оффиса для концентрации на дистанционке
 
 ----------------------------------------------Соцсети--------------------------------------------------------------------------------------
-https://mailfuture.ru/write/ - письмо себе в будущее                                                  
+https://mailfuture.ru/write/ - письмо себе в будущее         
+http://ctrlq.org/first/ - первый твит в цепочке по кейвордам                                            
 
 ----------------------------------------------Компуктеры эти ваши, интернеты---------------------------------------------------------------
 https://fast.com/ - самый простой проверятель скорости интернета                                
@@ -32,16 +36,19 @@ https://v1.windows93.net/ - эмулятор вин93, лол
 https://onedoes.github.io/snapdrop/ - файлшэр                                                    
 http://appinventor.mit.edu/ - придумыватель приложений                                            
 http://shadyurl.com/ - удлиннитель ссылок в супер-стремные        
-https://verylegit.link/ - еще один ссылкоудлиннитель
-                                            
+https://verylegit.link/ - еще один ссылкоудлиннитель                                            
+http://wikiverse.io/ - вселенная из статей на Википедии
 
 ----------------------------------------------Фото, видео, и все для фотошоперов---------------------------------------------------------------
 https://icons8.com/upscaler - улучшение качества фото                              
 https://logomaster.ai/ru - создатель логотипов, но лучше юзайте wix logo maker                      
-https://www.iconfinder.com/ - очень много иконок в пнг, как убрать линии я показывал в видео                       
+https://www.iconfinder.com/ - очень много иконок в пнг, как убрать линии я показывал в видео      
+https://dearphotograph.com/ - фото на одинаковом месте в разные эпохи
 
 ----------------------------------------------ИИ и технологии--------------------------------------------------------------------------------------------
-https://thispersondoesnotexist.com/ - генератор несуществующих людей
+https://thispersondoesnotexist.com/ - генератор несуществующих людей                                                
+http://madebyevan.com/webgl-water/ - вода. да, вода.             
+https://generated.photos/ - генератор несуществующих людей, но с настройками                 
 
 ----------------------------------------------Что?--------------------------------------------------------------------------------------------
 http://www.schiz.ru/ - тест на шизу                               
@@ -51,6 +58,8 @@ https://humanclock.com/ - текущее время на картинках с �
 https://screamclub.club/ - password - TEETH - орем в микрофон и это слышат все                         
 http://astronaut.io/ - видео с ютуба, у которых меньше 10 просмторов                
 https://lookslikeyouneediceland.com/ - орем в микро и транслируем это в Исландию                            
+http://mypiday.com/ - ваш ДР в числе пи
+
 
 
 
@@ -66,24 +75,17 @@ https://sleepyti.me/
 https://labs.tineye.com/
 http://8biticon.com/
 https://imena-znachenie.ru/
-http://madebyevan.com/webgl-water/
-https://tholman.com/texter/
-https://dearphotograph.com/
 http://bugmenot.com/
 https://chir.ag/projects/tip-of-my-tongue/
-http://ctrlq.org/first/
 https://www.scribblemaps.com/
 https://neal.fun/spend/
 https://www.festisite.com/money/ua_griven_100/
 https://artsexperiments.withgoogle.com/fabricius/en/play/translator
 https://pixel-me.tokyo/en/
 https://www.hotspot3d.com/#compare
-https://screamclub.club/ - 'password - TEETH'
-https://imisstheoffice.eu/
 https://krikienoid.github.io/flagwaver/#?src=https%3A%2F%2Fkotikot.netlify.app%2F
 http://omatic.musicairport.com/
 https://www.nikon.com/about/sp/universcale/index.htm?ref=1
-http://savethesounds.info/
 https://books.google.com/ngrams/
 https://verylegit.link/
 https://strobe.cool/
@@ -107,9 +109,7 @@ https://haveibeenpwned.com/passwords
 https://www.ocf.berkeley.edu/~acowen/music.html#
 http://listen.hatnote.com/
 https://facethemusic.io/
-http://mypiday.com/
 https://mr21.github.io/space-object-comparison/
-https://generated.photos/
 https://howfarawayisandromeda.neocities.org/
 http://littlealchemy.com/ and https://littlealchemy2.com/
 https://scrollbars.matoseb.com/
@@ -140,7 +140,6 @@ http://tramvision.ru/lapsus/
 https://playback.fm/birthday-song
 https://spacetypegenerator.com/
 https://washyourlyrics.com/
-http://wikiverse.io/
 http://lines.chromeexperiments.com/
 https://jellymar.io/
 https://www.how-old.net/
@@ -158,4 +157,3 @@ https://fast.com/
 https://onlinetonegenerator.com/hearingtest.html
 https://pokemon.alexonsager.net/
 https://crossfade.io/
-http://adventuremachine.4thfloorcreative.co.uk
