@@ -49,7 +49,7 @@ https://icons8.com/upscaler - улучшение качества фото
 https://letsenhance.io/ - еще одно улучшение,  но тут надо регаться и пл0тить деняк                               
 https://logomaster.ai/ru - создатель логотипов, но лучше юзайте wix logo maker                      
 https://www.iconfinder.com/ - очень много иконок в пнг, как убрать линии я показывал в видео      
-https://dearphotograph.com/ - фото на одинаковом месте в разные эпохи
+https://dearphotograph.com/ - фото на одинаковом месте в разные эпохи                                               
 https://labs.tineye.com/ - поиск картинок по цвету для оформления и еще куча всего      
 https://selfie2anime.com/ - селфи в аниме!                                 
 https://www.festisite.com/money/ua_griven_100/ - свое лицо в любую купюру. Кста, на сайте есть еще генератор игральных карт, логотипов в стиле ютуба и еще куча всего      
