@@ -9,7 +9,8 @@ http://fliptext.net/ - перевернутый текст
 https://llamafont.com/ - шрифт из.... лам?         
 https://tholman.com/texter/ - рисуем словами            
 https://artsexperiments.withgoogle.com/fabricius/en/play/translator - переводчик на.... Древнеегипетский?                             
-https://spacetypegenerator.com/ - генератор крутящихся надписей                                                             
+https://spacetypegenerator.com/ - генератор крутящихся надписей                
+https://www.calligraphr.com/ - генератор своих шрифтов                                        
 
 ----------------------------------------------Игры и фильмы----------------------------------------------------------------------------------------
 https://myshows.me/ - куча инфы о фильме и сериале (даже сумма времени всех серий)                               
