@@ -150,5 +150,5 @@ https://instantsfun.es/ - куча разных звуков при нажати
 https://pointerpointer.com/ - люди на фотках показывают на указатель мыши........                                            
 http://magickeyboard.io/ - стреляем кнопками и буквами. Что-то гениальное...                                                  
 
-P.s. Плохой BarsTiger все это конечно же украл из https://t.me/tochkasite
-P.p.s Тут по идее где-то 130 сайтов))
+P.s. Плохой BarsTiger все это конечно же украл из https://t.me/tochkasite                                           
+P.p.s Тут по идее где-то 130 сайтов))                                                               
